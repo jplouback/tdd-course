@@ -1,0 +1,23 @@
+{
+  "name": "javascript-tdd",
+  "version": "1.0.0",
+  "description": "curso javascript tdd udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jplouback/tdd-course.git"
+  },
+  "keywords": [
+    "js",
+    "tdd"
+  ],
+  "author": "Jonathan Louback <jplouback@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jplouback/tdd-course/issues"
+  },
+  "homepage": "https://github.com/jplouback/tdd-course#readme"
+}
